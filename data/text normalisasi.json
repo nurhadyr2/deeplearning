@@ -1,0 +1,3176 @@
+
+    {
+        "text":"ya",
+        "normalisasi":"iya"
+    }
+
+    {
+        "text":"ga",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"gak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"ngaco",
+        "normalisasi":"salah"
+    }
+
+    {
+        "text":"move on",
+        "normalisasi":"beralih"
+    }
+
+    {
+        "text":"liat",
+        "normalisasi":"lihat"
+    }
+
+    {
+        "text":"belom",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"ka",
+        "normalisasi":"kan"
+    }
+
+    {
+        "text":"berhub",
+        "normalisasi":"berhubungan"
+    }
+
+    {
+        "text":"gw",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"maen",
+        "normalisasi":"main"
+    }
+
+    {
+        "text":"tt",
+        "normalisasi":"tik tok"
+    }
+
+    {
+        "text":"kalo",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"uanh",
+        "normalisasi":"uang"
+    }
+
+    {
+        "text":"korup",
+        "normalisasi":"korupsi"
+    }
+
+    {
+        "text":"gue",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"trima",
+        "normalisasi":"terima"
+    }
+
+    {
+        "text":"rl",
+        "normalisasi":"kehidupan nyata"
+    }
+
+    {
+        "text":"emang",
+        "normalisasi":"memang"
+    }
+
+    {
+        "text":"bgt",
+        "normalisasi":"banget"
+    }
+
+    {
+        "text":"ngomong",
+        "normalisasi":"bicara"
+    }
+
+    {
+        "text":"nggak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"dok",
+        "normalisasi":"dong"
+    }
+
+    {
+        "text":"ngide",
+        "normalisasi":"mengusulkan ide"
+    }
+
+    {
+        "text":"dpt",
+        "normalisasi":"dapat"
+    }
+
+    {
+        "text":"drimana",
+        "normalisasi":"darimana"
+    }
+
+    {
+        "text":"blm",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"d",
+        "normalisasi":"di"
+    }
+
+    {
+        "text":"bis",
+        "normalisasi":"habis"
+    }
+
+    {
+        "text":"manuver",
+        "normalisasi":"tak tik"
+    }
+
+    {
+        "text":"random",
+        "normalisasi":"acak"
+    }
+
+    {
+        "text":"bullshit",
+        "normalisasi":"bohong"
+    }
+
+    {
+        "text":"scenario",
+        "normalisasi":"skenario"
+    }
+
+    {
+        "text":"buzzer",
+        "normalisasi":"juru bicara"
+    }
+
+    {
+        "text":"yachk",
+        "normalisasi":"yah"
+    }
+
+    {
+        "text":"celeng",
+        "normalisasi":"babi"
+    }
+
+    {
+        "text":"y",
+        "normalisasi":"yah"
+    }
+
+    {
+        "text":"sing",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"yg",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"hard work",
+        "normalisasi":"kerja keras"
+    }
+
+    {
+        "text":"mu",
+        "normalisasi":"mau"
+    }
+
+    {
+        "text":"n",
+        "normalisasi":"dan"
+    }
+
+    {
+        "text":"loe",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"trust issue",
+        "normalisasi":"masalah kepercayaan"
+    }
+
+    {
+        "text":"oknum2",
+        "normalisasi":"oknum oknum"
+    }
+
+    {
+        "text":"ntar",
+        "normalisasi":"nanti"
+    }
+
+    {
+        "text":"sodara",
+        "normalisasi":"saudara"
+    }
+
+    {
+        "text":"naon",
+        "normalisasi":"apa"
+    }
+
+    {
+        "text":"sendiriii",
+        "normalisasi":"sendiri"
+    }
+
+    {
+        "text":"apaa",
+        "normalisasi":"apa"
+    }
+
+    {
+        "text":"sampe",
+        "normalisasi":"sampai"
+    }
+
+    {
+        "text":"gbkl",
+        "normalisasi":"tidak bakal"
+    }
+
+    {
+        "text":"ngak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"gk",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"bljar",
+        "normalisasi":"belajar"
+    }
+
+    {
+        "text":"drimana",
+        "normalisasi":"darimana"
+    }
+
+    {
+        "text":"msh",
+        "normalisasi":"masih"
+    }
+
+    {
+        "text":"mw",
+        "normalisasi":"mau"
+    }
+
+    {
+        "text":"aj",
+        "normalisasi":"aja"
+    }
+
+    {
+        "text":"cm",
+        "normalisasi":"cuma"
+    }
+
+    {
+        "text":"udh",
+        "normalisasi":"udah"
+    }
+
+    {
+        "text":"lgi",
+        "normalisasi":"lagi"
+    }
+
+    {
+        "text":"dalm",
+        "normalisasi":"dalam"
+    }
+
+    {
+        "text":"share",
+        "normalisasi":"bagikan"
+    }
+
+    {
+        "text":"menolol nolol",
+        "normalisasi":"membodoh bodoh"
+    }
+
+    {
+        "text":"kpts",
+        "normalisasi":"kapasitas"
+    }
+
+    {
+        "text":"anyway",
+        "normalisasi":"bagaimana pun"
+    }
+
+    {
+        "text":"ok",
+        "normalisasi":"oke"
+    }
+
+    {
+        "text":"km",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"mw",
+        "normalisasi":"mau"
+    }
+
+    {
+        "text":"jdi",
+        "normalisasi":"jadi"
+    }
+
+    {
+        "text":"ngk",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"tp",
+        "normalisasi":"tapi"
+    }
+
+    {
+        "text":"km",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"vt",
+        "normalisasi":"video"
+    }
+
+    {
+        "text":"urgent",
+        "normalisasi":"genting"
+    }
+
+    {
+        "text":"ngga",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"ngadi ngadi",
+        "normalisasi":"mengada ngada"
+    }
+
+    {
+        "text":"kannn",
+        "normalisasi":"kan"
+    }
+
+    {
+        "text":"dll",
+        "normalisasi":"dan lain lain"
+    }
+
+    {
+        "text":"kaga",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"gen z",
+        "normalisasi":"generasi z"
+    }
+
+    {
+        "text":"gaada",
+        "normalisasi":"tidak ada"
+    }
+
+    {
+        "text":"krn",
+        "normalisasi":"karena"
+    }
+
+    {
+        "text":"dungu",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"rb",
+        "normalisasi":"ribu"
+    }
+
+    {
+        "text":"tetep",
+        "normalisasi":"tetap"
+    }
+
+    {
+        "text":"pk",
+        "normalisasi":"pak"
+    }
+
+    {
+        "text":"pd",
+        "normalisasi":"pada"
+    }
+
+    {
+        "text":"pjk",
+        "normalisasi":"pajak"
+    }
+
+    {
+        "text":"ksehtan",
+        "normalisasi":"kesehatan"
+    }
+
+    {
+        "text":"pension",
+        "normalisasi":"pensiun"
+    }
+
+    {
+        "text":"drpd",
+        "normalisasi":"daripada"
+    }
+
+    {
+        "text":"survei",
+        "normalisasi":"survei"
+    }
+
+    {
+        "text":"jg",
+        "normalisasi":"juga"
+    }
+
+    {
+        "text":"bsok",
+        "normalisasi":"besok"
+    }
+
+    {
+        "text":"lu",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"bt",
+        "normalisasi":"buat"
+    }
+
+    {
+        "text":"pndukung",
+        "normalisasi":"pendukung"
+    }
+
+    {
+        "text":"double",
+        "normalisasi":"ganda"
+    }
+
+    {
+        "text":"byar",
+        "normalisasi":"bayar"
+    }
+
+    {
+        "text":"cpat",
+        "normalisasi":"cepat"
+    }
+
+    {
+        "text":"utk",
+        "normalisasi":"untuk"
+    }
+
+    {
+        "text":"nulur",
+        "normalisasi":"nalar"
+    }
+
+    {
+        "text":"blokir",
+        "normalisasi":"blokir"
+    }
+
+    {
+        "text":"sy",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"kli",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"bpak",
+        "normalisasi":"bapak"
+    }
+
+    {
+        "text":"ketum",
+        "normalisasi":"ketua umum"
+    }
+
+    {
+        "text":"walkot",
+        "normalisasi":"wali kota"
+    }
+
+    {
+        "text":"klo",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"sma",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"gabisa",
+        "normalisasi":"tidak bisa"
+    }
+
+    {
+        "text":"dgn",
+        "normalisasi":"dengan"
+    }
+
+    {
+        "text":"review",
+        "normalisasi":"ulasan"
+    }
+
+    {
+        "text":"gak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"yng",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"harys",
+        "normalisasi":"harus"
+    }
+
+    {
+        "text":"duit",
+        "normalisasi":"uang"
+    }
+
+    {
+        "text":"plus",
+        "normalisasi":"tambah"
+    }
+
+    {
+        "text":"slash",
+        "normalisasi":"salah"
+    }
+
+    {
+        "text":"bet",
+        "normalisasi":"banget"
+    }
+
+    {
+        "text":"gede gede an",
+        "normalisasi":"besar besaran"
+    }
+
+    {
+        "text":"wong",
+        "normalisasi":"orang"
+    }
+
+    {
+        "text":"partner",
+        "normalisasi":"teman"
+    }
+
+    {
+        "text":"boro",
+        "normalisasi":"jangankan"
+    }
+
+    {
+        "text":"pake",
+        "normalisasi":"pakai"
+    }
+
+    {
+        "text":"sdh",
+        "normalisasi":"sudah"
+    }
+
+    {
+        "text":"bro",
+        "normalisasi":"teman"
+    }
+
+    {
+        "text":"kerna",
+        "normalisasi":"karena"
+    }
+
+    {
+        "text":"amp",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"made in",
+        "normalisasi":"buatan"
+    }
+
+    {
+        "text":"ku",
+        "normalisasi":"aku"
+    }
+
+    {
+        "text":"pade",
+        "normalisasi":"pada"
+    }
+
+    {
+        "text":"resigne",
+        "normalisasi":"mengundurkan diri"
+    }
+
+    {
+        "text":"knp",
+        "normalisasi":"kenapa"
+    }
+
+    {
+        "text":"mindset",
+        "normalisasi":"pikiran"
+    }
+
+    {
+        "text":"upgrade",
+        "normalisasi":"perbarui"
+    }
+
+    {
+        "text":"and",
+        "normalisasi":"dan"
+    }
+
+    {
+        "text":"pren",
+        "normalisasi":"teman"
+    }
+
+    {
+        "text":"skrg",
+        "normalisasi":"sekarang"
+    }
+
+    {
+        "text":"maintenance",
+        "normalisasi":"pemeliharaan"
+    }
+
+    {
+        "text":"humen",
+        "normalisasi":"orang"
+    }
+
+    {
+        "text":"kudu",
+        "normalisasi":"harus"
+    }
+
+    {
+        "text":"kyk",
+        "normalisasi":"kayak"
+    }
+
+    {
+        "text":"besuk",
+        "normalisasi":"besok"
+    }
+
+    {
+        "text":"hoax",
+        "normalisasi":"bohong"
+    }
+
+    {
+        "text":"t",
+        "normalisasi":"triliun"
+    }
+
+    {
+        "text":"gajih",
+        "normalisasi":"gaji"
+    }
+
+    {
+        "text":"otw",
+        "normalisasi":"dalam perjalanan"
+    }
+
+    {
+        "text":"sinting",
+        "normalisasi":"gila"
+    }
+
+    {
+        "text":"negri",
+        "normalisasi":"negeri"
+    }
+
+    {
+        "text":"find out more on",
+        "normalisasi":"ketahui lebih lanjut tentang"
+    }
+
+    {
+        "text":"tak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"gile",
+        "normalisasi":"gila"
+    }
+
+    {
+        "text":"ye",
+        "normalisasi":"ya"
+    }
+
+    {
+        "text":"blum",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"amp",
+        "normalisasi":"sampai"
+    }
+
+    {
+        "text":"dirut",
+        "normalisasi":"direktur utama"
+    }
+
+    {
+        "text":"u",
+        "normalisasi":"untuk"
+    }
+
+    {
+        "text":"elu",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"bini",
+        "normalisasi":"istri"
+    }
+
+    {
+        "text":"ngotot",
+        "normalisasi":"maksa"
+    }
+
+    {
+        "text":"ledig",
+        "normalisasi":"lebih"
+    }
+
+    {
+        "text":"up",
+        "normalisasi":"unggah"
+    }
+
+    {
+        "text":"sosmed",
+        "normalisasi":"sosial media"
+    }
+
+    {
+        "text":"entar",
+        "normalisasi":"nanti"
+    }
+
+    {
+        "text":"journey",
+        "normalisasi":"perjalanan"
+    }
+
+    {
+        "text":"kalu",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"judol",
+        "normalisasi":"judi online"
+    }
+
+    {
+        "text":"masi",
+        "normalisasi":"masih"
+    }
+
+    {
+        "text":"ato",
+        "normalisasi":"atau"
+    }
+
+    {
+        "text":"sobat",
+        "normalisasi":"teman"
+    }
+
+    {
+        "text":"sampeyan",
+        "normalisasi":"anda"
+    }
+
+    {
+        "text":"salty",
+        "normalisasi":"kesal"
+    }
+
+    {
+        "text":"org",
+        "normalisasi":"orang"
+    }
+
+    {
+        "text":"bongkotan",
+        "normalisasi":"tua"
+    }
+
+    {
+        "text":"ples",
+        "normalisasi":"tambah"
+    }
+
+    {
+        "text":"aye",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"ndak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"jokes",
+        "normalisasi":"lelucon"
+    }
+
+    {
+        "text":"ghaib",
+        "normalisasi":"setan"
+    }
+
+    {
+        "text":"trs",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"ws",
+        "normalisasi":"sudah"
+    }
+
+    {
+        "text":"ambe",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"iki",
+        "normalisasi":"ini"
+    }
+
+    {
+        "text":"all in",
+        "normalisasi":"semuanya"
+    }
+
+    {
+        "text":"backlog",
+        "normalisasi":"tunggakan"
+    }
+
+    {
+        "text":"jgn",
+        "normalisasi":"jangan"
+    }
+
+    {
+        "text":"shingga",
+        "normalisasi":"sehingga"
+    }
+
+    {
+        "text":"cape",
+        "normalisasi":"capek"
+    }
+
+    {
+        "text":"output",
+        "normalisasi":"hasil"
+    }
+
+    {
+        "text":"lu",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"gak",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"konoha",
+        "normalisasi":"indonesia"
+    }
+
+    {
+        "text":"tdk",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"fit",
+        "normalisasi":"sehat"
+    }
+
+    {
+        "text":"sprt",
+        "normalisasi":"seperti"
+    }
+
+    {
+        "text":"hrs",
+        "normalisasi":"harus"
+    }
+
+    {
+        "text":"x",
+        "normalisasi":"sekali"
+    }
+
+    {
+        "text":"rebu",
+        "normalisasi":"ribu"
+    }
+
+    {
+        "text":"ttg",
+        "normalisasi":"tentang"
+    }
+
+    {
+        "text":"negative new",
+        "normalisasi":"kurang berita"
+    }
+
+    {
+        "text":"jd",
+        "normalisasi":"jadi"
+    }
+
+    {
+        "text":"rek",
+        "normalisasi":"rekening"
+    }
+
+    {
+        "text":"gede",
+        "normalisasi":"besar"
+    }
+
+    {
+        "text":"kocak",
+        "normalisasi":"lucu"
+    }
+
+    {
+        "text":"suru",
+        "normalisasi":"suruh"
+    }
+
+    {
+        "text":"bgtu",
+        "normalisasi":"begitu"
+    }
+
+    {
+        "text":"krna",
+        "normalisasi":"karena"
+    }
+
+    {
+        "text":"gt",
+        "normalisasi":"gitu"
+    }
+
+    {
+        "text":"gercep",
+        "normalisasi":"gerak cepat"
+    }
+
+    {
+        "text":"gw",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"spt",
+        "normalisasi":"seperti"
+    }
+
+    {
+        "text":"sklian",
+        "normalisasi":"sekalian"
+    }
+
+    {
+        "text":"dri",
+        "normalisasi":"dari"
+    }
+
+    {
+        "text":"overwork",
+        "normalisasi":"kerja berlebihan"
+    }
+
+    {
+        "text":"blm",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"jdnya",
+        "normalisasi":"jadinya"
+    }
+
+    {
+        "text":"gua",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"set",
+        "normalisasi":"setengah"
+    }
+
+    {
+        "text":"moga",
+        "normalisasi":"semoga"
+    }
+
+    {
+        "text":"gabut",
+        "normalisasi":"bosan"
+    }
+
+    {
+        "text":"amat",
+        "normalisasi":"sekali"
+    }
+
+    {
+        "text":"becus",
+        "normalisasi":"mahir"
+    }
+
+    {
+        "text":"dongo",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"sdm",
+        "normalisasi":"sumber daya manusia"
+    }
+
+    {
+        "text":"gatau",
+        "normalisasi":"tidak tahu"
+    }
+
+    {
+        "text":"uda",
+        "normalisasi":"sudah"
+    }
+
+    {
+        "text":"tennag",
+        "normalisasi":"tenang"
+    }
+
+    {
+        "text":"bacot",
+        "normalisasi":"banyak bicara"
+    }
+
+    {
+        "text":"mentri",
+        "normalisasi":"menteri"
+    }
+
+    {
+        "text":"jk",
+        "normalisasi":"jokowi"
+    }
+
+    {
+        "text":"w",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"the real",
+        "normalisasi":"nyata"
+    }
+
+    {
+        "text":"gk",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"bngt",
+        "normalisasi":"banget"
+    }
+
+    {
+        "text":"sm",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"anakqu",
+        "normalisasi":"anakku"
+    }
+
+    {
+        "text":"u",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"smoga",
+        "normalisasi":"semoga"
+    }
+
+    {
+        "text":"sllu",
+        "normalisasi":"selalu"
+    }
+
+    {
+        "text":"ss",
+        "normalisasi":"tangkap layar"
+    }
+
+    {
+        "text":"emka",
+        "normalisasi":"mk"
+    }
+
+    {
+        "text":"sdgkan",
+        "normalisasi":"sedangkan"
+    }
+
+    {
+        "text":"shrsnya",
+        "normalisasi":"seharusnya"
+    }
+
+    {
+        "text":"trus",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"bansos",
+        "normalisasi":"bantuan sosial"
+    }
+
+    {
+        "text":"ngga",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"crazyrich",
+        "normalisasi":"kaya raya"
+    }
+
+    {
+        "text":"story",
+        "normalisasi":"cerita"
+    }
+
+    {
+        "text":"prgi",
+        "normalisasi":"pergi"
+    }
+
+    {
+        "text":"tmpt",
+        "normalisasi":"tempat"
+    }
+
+    {
+        "text":"brgkt",
+        "normalisasi":"berangkat"
+    }
+
+    {
+        "text":"sm",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"plg",
+        "normalisasi":"pulang"
+    }
+
+    {
+        "text":"trs",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"ojol ny",
+        "normalisasi":"ojek onlinenya"
+    }
+
+    {
+        "text":"ojol",
+        "normalisasi":"ojek online"
+    }
+
+    {
+        "text":"gtwnya",
+        "normalisasi":"tidak tahunya"
+    }
+
+    {
+        "text":"emg",
+        "normalisasi":"memang"
+    }
+
+    {
+        "text":"prnh",
+        "normalisasi":"pernah"
+    }
+
+    {
+        "text":"ngmongin",
+        "normalisasi":"bicarain"
+    }
+
+    {
+        "text":"krywn",
+        "normalisasi":"karyawan"
+    }
+
+    {
+        "text":"gajelas",
+        "normalisasi":"tidak jelas"
+    }
+
+    {
+        "text":"dhlh",
+        "normalisasi":"sudah lah"
+    }
+
+    {
+        "text":"hoaks",
+        "normalisasi":"bohong"
+    }
+
+    {
+        "text":"mon",
+        "normalisasi":"mohon"
+    }
+
+    {
+        "text":"maap",
+        "normalisasi":"maaf"
+    }
+
+    {
+        "text":"kek",
+        "normalisasi":"kayak"
+    }
+
+    {
+        "text":"kyky",
+        "normalisasi":"kayaknya"
+    }
+
+    {
+        "text":"yaude",
+        "normalisasi":"yaudah"
+    }
+
+    {
+        "text":"unfoll",
+        "normalisasi":"berhenti mengikuti"
+    }
+
+    {
+        "text":"agency",
+        "normalisasi":"agensi"
+    }
+
+    {
+        "text":"gt",
+        "normalisasi":"gitu"
+    }
+
+    {
+        "text":"posting",
+        "normalisasi":"unggahan"
+    }
+
+    {
+        "text":"komen",
+        "normalisasi":"komentar"
+    }
+
+    {
+        "text":"mnrt",
+        "normalisasi":"menurut"
+    }
+
+    {
+        "text":"mangatttt",
+        "normalisasi":"semangat"
+    }
+
+    {
+        "text":"agc",
+        "normalisasi":"agency"
+    }
+
+    {
+        "text":"klo",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"krn",
+        "normalisasi":"karena"
+    }
+
+    {
+        "text":"sdg",
+        "normalisasi":"sedang"
+    }
+
+    {
+        "text":"keep hacker",
+        "normalisasi":"mempertahankan hacker"
+    }
+
+    {
+        "text":"nge bully",
+        "normalisasi":"mengintimidasi"
+    }
+
+    {
+        "text":"dg",
+        "normalisasi":"dengan"
+    }
+
+    {
+        "text":"uda",
+        "normalisasi":"udah"
+    }
+
+    {
+        "text":"gaklah",
+        "normalisasi":"tidak lah"
+    }
+
+    {
+        "text":"grand opening",
+        "normalisasi":null
+    }
+
+    {
+        "text":"masama",
+        "normalisasi":"sama sama"
+    }
+
+    {
+        "text":"nnati",
+        "normalisasi":"nanti"
+    }
+
+    {
+        "text":"minus",
+        "normalisasi":"kurang"
+    }
+
+    {
+        "text":"baso",
+        "normalisasi":"bakso"
+    }
+
+    {
+        "text":"fav",
+        "normalisasi":"favorit"
+    }
+
+    {
+        "text":"beryukur",
+        "normalisasi":"bersyukur"
+    }
+
+    {
+        "text":"aje",
+        "normalisasi":"aja"
+    }
+
+    {
+        "text":"mo",
+        "normalisasi":"mau"
+    }
+
+    {
+        "text":"ges",
+        "normalisasi":"teman"
+    }
+
+    {
+        "text":"klo",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"gtu",
+        "normalisasi":"gitu"
+    }
+
+    {
+        "text":"daful",
+        "normalisasi":"daftar ulang"
+    }
+
+    {
+        "text":"emg",
+        "normalisasi":"memang"
+    }
+
+    {
+        "text":"unt",
+        "normalisasi":"untuk"
+    }
+
+    {
+        "text":"family office",
+        "normalisasi":"kantor keluarga"
+    }
+
+    {
+        "text":"skr",
+        "normalisasi":"sekarang"
+    }
+
+    {
+        "text":"dg",
+        "normalisasi":"dengan"
+    }
+
+    {
+        "text":"morninkkk",
+        "normalisasi":"pagi"
+    }
+
+    {
+        "text":"vote",
+        "normalisasi":"memilih"
+    }
+
+    {
+        "text":"sapa",
+        "normalisasi":"siapa"
+    }
+
+    {
+        "text":"sing",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"goblok",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"kemaki",
+        "normalisasi":"sombong"
+    }
+
+    {
+        "text":"picik",
+        "normalisasi":"licik"
+    }
+
+    {
+        "text":"getol",
+        "normalisasi":"rajin"
+    }
+
+    {
+        "text":"fee",
+        "normalisasi":"gaji"
+    }
+
+    {
+        "text":"ygll",
+        "normalisasi":"yang lain lain"
+    }
+
+    {
+        "text":"tax amnesty",
+        "normalisasi":"amnesti pajak"
+    }
+
+    {
+        "text":"umr",
+        "normalisasi":"upah minum regional"
+    }
+
+    {
+        "text":"miliki",
+        "normalisasi":"memiliki"
+    }
+
+    {
+        "text":"ekonimo",
+        "normalisasi":"ekonomi"
+    }
+
+    {
+        "text":"uan",
+        "normalisasi":"uang"
+    }
+
+    {
+        "text":"aza",
+        "normalisasi":"aja"
+    }
+
+    {
+        "text":"untunnya",
+        "normalisasi":"untungnya"
+    }
+
+    {
+        "text":"ikn",
+        "normalisasi":"inu kota nusantara"
+    }
+
+    {
+        "text":"para tikus",
+        "normalisasi":"para pejabat"
+    }
+
+    {
+        "text":"tikus",
+        "normalisasi":"pejabat"
+    }
+
+    {
+        "text":"w",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"onok",
+        "normalisasi":"ada"
+    }
+
+    {
+        "text":"wis",
+        "normalisasi":"udah"
+    }
+
+    {
+        "text":"pmrntahan",
+        "normalisasi":"pemerintahan"
+    }
+
+    {
+        "text":"mndptkan",
+        "normalisasi":"mendapatkan"
+    }
+
+    {
+        "text":"cekak",
+        "normalisasi":"sedikit"
+    }
+
+    {
+        "text":"hnya",
+        "normalisasi":"hanya"
+    }
+
+    {
+        "text":"bncakan",
+        "normalisasi":"hajatan"
+    }
+
+    {
+        "text":"adl",
+        "normalisasi":"adalah"
+    }
+
+    {
+        "text":"urunan",
+        "normalisasi":"iuran"
+    }
+
+    {
+        "text":"pdkt",
+        "normalisasi":"pendekatan"
+    }
+
+    {
+        "text":"spd",
+        "normalisasi":"sepeda"
+    }
+
+    {
+        "text":"kt",
+        "normalisasi":"kata"
+    }
+
+    {
+        "text":"nnti",
+        "normalisasi":"nanti"
+    }
+
+    {
+        "text":"plis",
+        "normalisasi":"tolong"
+    }
+
+    {
+        "text":"gktau",
+        "normalisasi":"tidak tahu"
+    }
+
+    {
+        "text":"pie",
+        "normalisasi":"gimana"
+    }
+
+    {
+        "text":"kabare",
+        "normalisasi":"kabarnya"
+    }
+
+    {
+        "text":"apkh",
+        "normalisasi":"apakah"
+    }
+
+    {
+        "text":"sampe",
+        "normalisasi":"sampai"
+    }
+
+    {
+        "text":"stelah",
+        "normalisasi":"setelah"
+    }
+
+    {
+        "text":"cb",
+        "normalisasi":"coba"
+    }
+
+    {
+        "text":"lwt",
+        "normalisasi":"lewat"
+    }
+
+    {
+        "text":"kend",
+        "normalisasi":"kendala"
+    }
+
+    {
+        "text":"blunder",
+        "normalisasi":"kesalahan"
+    }
+
+    {
+        "text":"tk",
+        "normalisasi":"tak"
+    }
+
+    {
+        "text":"iutan",
+        "normalisasi":"iuran"
+    }
+
+    {
+        "text":"replay",
+        "normalisasi":"ulanh"
+    }
+
+    {
+        "text":"flexing",
+        "normalisasi":"pamer"
+    }
+
+    {
+        "text":"hedon",
+        "normalisasi":"mengejar kesenangan"
+    }
+
+    {
+        "text":"mrk",
+        "normalisasi":"mereka"
+    }
+
+    {
+        "text":"trs",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"byr",
+        "normalisasi":"bayar"
+    }
+
+    {
+        "text":"jln",
+        "normalisasi":"jalan"
+    }
+
+    {
+        "text":"monas",
+        "normalisasi":"monumen nasional"
+    }
+
+    {
+        "text":"tuk",
+        "normalisasi":"untuk"
+    }
+
+    {
+        "text":"dg",
+        "normalisasi":"dengan"
+    }
+
+    {
+        "text":"btw",
+        "normalisasi":"ngomong ngomong"
+    }
+
+    {
+        "text":"skrng",
+        "normalisasi":"sekarang"
+    }
+
+    {
+        "text":"kmrn",
+        "normalisasi":"kemarin"
+    }
+
+    {
+        "text":"rame",
+        "normalisasi":"ramai"
+    }
+
+    {
+        "text":"jklen",
+        "normalisasi":"kalian"
+    }
+
+    {
+        "text":"smwa",
+        "normalisasi":"semua"
+    }
+
+    {
+        "text":"gag",
+        "normalisasi":"agak"
+    }
+
+    {
+        "text":"piye",
+        "normalisasi":"gimana"
+    }
+
+    {
+        "text":"akeh",
+        "normalisasi":"banyak"
+    }
+
+    {
+        "text":"kudu",
+        "normalisasi":"harus"
+    }
+
+    {
+        "text":"smaaa",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"taukh",
+        "normalisasi":"pernah"
+    }
+
+    {
+        "text":"siape",
+        "normalisasi":"siapa"
+    }
+
+    {
+        "text":"uky",
+        "normalisasi":"ukt"
+    }
+
+    {
+        "text":"erikan",
+        "normalisasi":"berikan"
+    }
+
+    {
+        "text":"membagongkan",
+        "normalisasi":"membingungkan"
+    }
+
+    {
+        "text":"bu",
+        "normalisasi":"butuh uang"
+    }
+
+    {
+        "text":"dg",
+        "normalisasi":"dengan"
+    }
+
+    {
+        "text":"hbs",
+        "normalisasi":"habis"
+    }
+
+    {
+        "text":"iso",
+        "normalisasi":"bisa"
+    }
+
+    {
+        "text":"gawe",
+        "normalisasi":"buat"
+    }
+
+    {
+        "text":"nnt",
+        "normalisasi":"nanti"
+    }
+
+    {
+        "text":"apalg",
+        "normalisasi":"apalagi"
+    }
+
+    {
+        "text":"dah",
+        "normalisasi":"udah"
+    }
+
+    {
+        "text":"yh",
+        "normalisasi":"yah"
+    }
+
+    {
+        "text":"money loundry",
+        "normalisasi":"cuci uang"
+    }
+
+    {
+        "text":"nyri",
+        "normalisasi":"mencari"
+    }
+
+    {
+        "text":"mama",
+        "normalisasi":"mana"
+    }
+
+    {
+        "text":"jgn",
+        "normalisasi":"jangan"
+    }
+
+    {
+        "text":"konyol",
+        "normalisasi":"lucu"
+    }
+
+    {
+        "text":"lu",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"pinjol",
+        "normalisasi":"pinjaman online"
+    }
+
+    {
+        "text":"pokoke",
+        "normalisasi":"pokoknya"
+    }
+
+    {
+        "text":"bgunilah",
+        "normalisasi":"begitulah"
+    }
+
+    {
+        "text":"kas",
+        "normalisasi":"khas"
+    }
+
+    {
+        "text":"bokek",
+        "normalisasi":"tidak memiliki uang"
+    }
+
+    {
+        "text":"dstnya",
+        "normalisasi":"dan seterusnya"
+    }
+
+    {
+        "text":"sdng",
+        "normalisasi":"sedang"
+    }
+
+    {
+        "text":"sgala",
+        "normalisasi":"segala"
+    }
+
+    {
+        "text":"meres",
+        "normalisasi":"meras"
+    }
+
+    {
+        "text":"becuk",
+        "normalisasi":"besok"
+    }
+
+    {
+        "text":"rkyt",
+        "normalisasi":"rakyat"
+    }
+
+    {
+        "text":"omongin",
+        "normalisasi":"bicarain"
+    }
+
+    {
+        "text":"kbnyakan",
+        "normalisasi":"kebanyakan"
+    }
+
+    {
+        "text":"bnrn",
+        "normalisasi":"beneran"
+    }
+
+    {
+        "text":"fine",
+        "normalisasi":"baik"
+    }
+
+    {
+        "text":"third party liability",
+        "normalisasi":"tanggung jawab pihak ketiga"
+    }
+
+    {
+        "text":"tpi",
+        "normalisasi":"tapi"
+    }
+
+    {
+        "text":"iur",
+        "normalisasi":"iuran"
+    }
+
+    {
+        "text":"taun",
+        "normalisasi":"tahun"
+    }
+
+    {
+        "text":"g",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"sbb",
+        "normalisasi":"sebab"
+    }
+
+    {
+        "text":"ampir",
+        "normalisasi":"hampir"
+    }
+
+    {
+        "text":"wuedan",
+        "normalisasi":"gila"
+    }
+
+    {
+        "text":"bung",
+        "normalisasi":"teman"
+    }
+
+    {
+        "text":"ngepul",
+        "normalisasi":"ngumpulin"
+    }
+
+    {
+        "text":"rancu",
+        "normalisasi":"membingungkan"
+    }
+
+    {
+        "text":"siwiwi",
+        "normalisasi":"si jokowi"
+    }
+
+    {
+        "text":"wowo",
+        "normalisasi":"prabowo"
+    }
+
+    {
+        "text":"iyuran",
+        "normalisasi":"iuran"
+    }
+
+    {
+        "text":"you know",
+        "normalisasi":"kamu tahu"
+    }
+
+    {
+        "text":"dungu",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"ono",
+        "normalisasi":"sana"
+    }
+
+    {
+        "text":"duuiit",
+        "normalisasi":"uang"
+    }
+
+    {
+        "text":"edunnn",
+        "normalisasi":"gila"
+    }
+
+    {
+        "text":"ntah",
+        "normalisasi":"entah"
+    }
+
+    {
+        "text":"what next",
+        "normalisasi":"apa selanjutnya"
+    }
+
+    {
+        "text":"middle",
+        "normalisasi":"tengah"
+    }
+
+    {
+        "text":"nipu",
+        "normalisasi":"menipu"
+    }
+
+    {
+        "text":"jdi",
+        "normalisasi":"jadi"
+    }
+
+    {
+        "text":"sj",
+        "normalisasi":"saja"
+    }
+
+    {
+        "text":"tdk",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"mrka",
+        "normalisasi":"mereka"
+    }
+
+    {
+        "text":"trust",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"happy",
+        "normalisasi":"senang"
+    }
+
+    {
+        "text":"gaboleh",
+        "normalisasi":"tidak boleh"
+    }
+
+    {
+        "text":"cancel",
+        "normalisasi":"batalkan"
+    }
+
+    {
+        "text":"undo",
+        "normalisasi":"kembalikan"
+    }
+
+    {
+        "text":"susahna",
+        "normalisasi":"susahnya"
+    }
+
+    {
+        "text":"wni",
+        "normalisasi":"warga negara indonesia"
+    }
+
+    {
+        "text":"wna",
+        "normalisasi":"warga negara asing"
+    }
+
+    {
+        "text":"smntr",
+        "normalisasi":"sementara"
+    }
+
+    {
+        "text":"negrinya",
+        "normalisasi":"negerinya"
+    }
+
+    {
+        "text":"ordal",
+        "normalisasi":"orang dalam"
+    }
+
+    {
+        "text":"masyrakatnya",
+        "normalisasi":"masyarakatnya"
+    }
+
+    {
+        "text":"kemenkes",
+        "normalisasi":"kementrian kesehatan"
+    }
+
+    {
+        "text":"gw",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"masi",
+        "normalisasi":"masih"
+    }
+
+    {
+        "text":"pns",
+        "normalisasi":"pegawai negeri sipil"
+    }
+
+    {
+        "text":"smw",
+        "normalisasi":"semua"
+    }
+
+    {
+        "text":"nagbisin",
+        "normalisasi":"ngabisin"
+    }
+
+    {
+        "text":"payment",
+        "normalisasi":"pembayaran"
+    }
+
+    {
+        "text":"mkir",
+        "normalisasi":"mikir"
+    }
+
+    {
+        "text":"simple",
+        "normalisasi":"simpel"
+    }
+
+    {
+        "text":"kesika",
+        "normalisasi":"kesiksa"
+    }
+
+    {
+        "text":"aama",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"pgen",
+        "normalisasi":"ingin"
+    }
+
+    {
+        "text":"oversharing",
+        "normalisasi":"berbagi berlebihan"
+    }
+
+    {
+        "text":"haris",
+        "normalisasi":"harus"
+    }
+
+    {
+        "text":"ma",
+        "normalisasi":"mahkamah agung"
+    }
+
+    {
+        "text":"gpp",
+        "normalisasi":"tidak apa apa"
+    }
+
+    {
+        "text":"potingan",
+        "normalisasi":"potongan"
+    }
+
+    {
+        "text":"gegara",
+        "normalisasi":"gara gara"
+    }
+
+    {
+        "text":"maapin",
+        "normalisasi":"maafin"
+    }
+
+    {
+        "text":"kk",
+        "normalisasi":"kok"
+    }
+
+    {
+        "text":"aj",
+        "normalisasi":"aja"
+    }
+
+    {
+        "text":"bnyk",
+        "normalisasi":"banyak"
+    }
+
+    {
+        "text":"y",
+        "normalisasi":"iya"
+    }
+
+    {
+        "text":"dapt",
+        "normalisasi":"dapat"
+    }
+
+    {
+        "text":"sdh",
+        "normalisasi":"sudah"
+    }
+
+    {
+        "text":"angk",
+        "normalisasi":"angka"
+    }
+
+    {
+        "text":"rejim",
+        "normalisasi":"rezim"
+    }
+
+    {
+        "text":"dg",
+        "normalisasi":"dengan"
+    }
+
+    {
+        "text":"elu",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"tolol",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"ancene",
+        "normalisasi":"memang"
+    }
+
+    {
+        "text":"trondolo",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"mulu",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"brp",
+        "normalisasi":"berapa"
+    }
+
+    {
+        "text":"perzen",
+        "normalisasi":"persen"
+    }
+
+    {
+        "text":"kna",
+        "normalisasi":"kena"
+    }
+
+    {
+        "text":"x",
+        "normalisasi":"berkali"
+    }
+
+    {
+        "text":"hobby",
+        "normalisasi":"hobi"
+    }
+
+    {
+        "text":"kn",
+        "normalisasi":"kan"
+    }
+
+    {
+        "text":"blum",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"bs",
+        "normalisasi":"bisa"
+    }
+
+    {
+        "text":"lg",
+        "normalisasi":"lagi"
+    }
+
+    {
+        "text":"sepik ap",
+        "normalisasi":"angkat bicara"
+    }
+
+    {
+        "text":"mustahal",
+        "normalisasi":"mustahil"
+    }
+
+    {
+        "text":"rung",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"seterlah",
+        "normalisasi":"setelah"
+    }
+
+    {
+        "text":"sy",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"brhrp",
+        "normalisasi":"berharap"
+    }
+
+    {
+        "text":"pmrnth",
+        "normalisasi":"pemerintah"
+    }
+
+    {
+        "text":"mnyngkut",
+        "normalisasi":"menyangkut"
+    }
+
+    {
+        "text":"sprti",
+        "normalisasi":"seperti"
+    }
+
+    {
+        "text":"kls",
+        "normalisasi":"kelas"
+    }
+
+    {
+        "text":"lsg",
+        "normalisasi":"langsung"
+    }
+
+    {
+        "text":"utk",
+        "normalisasi":"untuk"
+    }
+
+    {
+        "text":"dn",
+        "normalisasi":"dan"
+    }
+
+    {
+        "text":"kptsn",
+        "normalisasi":"keputusan"
+    }
+
+    {
+        "text":"pr",
+        "normalisasi":"para"
+    }
+
+    {
+        "text":"pmbuat",
+        "normalisasi":"pembuat"
+    }
+
+    {
+        "text":"senua",
+        "normalisasi":"semua"
+    }
+
+    {
+        "text":"cuan",
+        "normalisasi":"uang"
+    }
+
+    {
+        "text":"mostly",
+        "normalisasi":null
+    }
+
+    {
+        "text":"purchasing",
+        "normalisasi":null
+    }
+
+    {
+        "text":"hbis",
+        "normalisasi":"habis"
+    }
+
+    {
+        "text":"dptkan",
+        "normalisasi":"dapatkan"
+    }
+
+    {
+        "text":"bingits",
+        "normalisasi":"banget"
+    }
+
+    {
+        "text":"ente",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"ane",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"py",
+        "normalisasi":"punya"
+    }
+
+    {
+        "text":"ni",
+        "normalisasi":"ini"
+    }
+
+    {
+        "text":"gedek",
+        "normalisasi":"kesal"
+    }
+
+    {
+        "text":"bberguna",
+        "normalisasi":"berguna"
+    }
+
+    {
+        "text":"mluuu",
+        "normalisasi":"terus"
+    }
+
+    {
+        "text":"dikorup",
+        "normalisasi":"di korupsi"
+    }
+
+    {
+        "text":"femerintah",
+        "normalisasi":"pemerintah"
+    }
+
+    {
+        "text":"fast food",
+        "normalisasi":"makanan cepat saji"
+    }
+
+    {
+        "text":"sblmnya",
+        "normalisasi":"ssebelumnya"
+    }
+
+    {
+        "text":"pajek",
+        "normalisasi":"pajak"
+    }
+
+    {
+        "text":"gadak",
+        "normalisasi":"tidak ada"
+    }
+
+    {
+        "text":"strong",
+        "normalisasi":"kuat"
+    }
+
+    {
+        "text":"welfare",
+        "normalisasi":null
+    }
+
+    {
+        "text":"ri",
+        "normalisasi":"republik indonesia"
+    }
+
+    {
+        "text":"bwh",
+        "normalisasi":"bawah"
+    }
+
+    {
+        "text":"adlh",
+        "normalisasi":"adalah"
+    }
+
+    {
+        "text":"incapable",
+        "normalisasi":null
+    }
+
+    {
+        "text":"naek",
+        "normalisasi":"naik"
+    }
+
+    {
+        "text":"mosok",
+        "normalisasi":"masak"
+    }
+
+    {
+        "text":"knpa",
+        "normalisasi":"kenapa"
+    }
+
+    {
+        "text":"nkri",
+        "normalisasi":"negara kesatuan republik indonesia"
+    }
+
+    {
+        "text":"bar iki",
+        "normalisasi":"habis ini"
+    }
+
+    {
+        "text":"anake",
+        "normalisasi":"anaknya"
+    }
+
+    {
+        "text":"karo",
+        "normalisasi":"sama"
+    }
+
+    {
+        "text":"low",
+        "normalisasi":"rendah"
+    }
+
+    {
+        "text":"lek",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"opo",
+        "normalisasi":"apa"
+    }
+
+    {
+        "text":"maneh",
+        "normalisasi":"lagi"
+    }
+
+    {
+        "text":"mesam mesem",
+        "normalisasi":"senyum senyum"
+    }
+
+    {
+        "text":"sugih",
+        "normalisasi":"kaya"
+    }
+
+    {
+        "text":"brutal",
+        "normalisasi":"gila"
+    }
+
+    {
+        "text":"diblg",
+        "normalisasi":"dibilang"
+    }
+
+    {
+        "text":"lgkah",
+        "normalisasi":"langkah"
+    }
+
+    {
+        "text":"kliatan",
+        "normalisasi":"kelihatan"
+    }
+
+    {
+        "text":"ngisin isini",
+        "normalisasi":"malu maluin"
+    }
+
+    {
+        "text":"ketiwi",
+        "normalisasi":"ketawa"
+    }
+
+    {
+        "text":"fulus ",
+        "normalisasi":"uang"
+    }
+
+    {
+        "text":"keles",
+        "normalisasi":"kali"
+    }
+
+    {
+        "text":"skr",
+        "normalisasi":"sekarang"
+    }
+
+    {
+        "text":"yng",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"yg",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"kl",
+        "normalisasi":"kalau"
+    }
+
+    {
+        "text":"kalopun",
+        "normalisasi":"kalaupun"
+    }
+
+    {
+        "text":"dsruh",
+        "normalisasi":"disuruh"
+    }
+
+    {
+        "text":"bngun",
+        "normalisasi":"bangun"
+    }
+
+    {
+        "text":"ng",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"duitnya",
+        "normalisasi":"uangnya"
+    }
+
+    {
+        "text":"kicep",
+        "normalisasi":"diam"
+    }
+
+    {
+        "text":"tp",
+        "normalisasi":"tapi"
+    }
+
+    {
+        "text":"lgsg",
+        "normalisasi":"langsung"
+    }
+
+    {
+        "text":"org",
+        "normalisasi":"orang"
+    }
+
+    {
+        "text":"wkt",
+        "normalisasi":"waktu"
+    }
+
+    {
+        "text":"ampe",
+        "normalisasi":"sampai"
+    }
+
+    {
+        "text":"pdhl",
+        "normalisasi":"padahal"
+    }
+
+    {
+        "text":"mulyono",
+        "normalisasi":"jokowi"
+    }
+
+    {
+        "text":"blio",
+        "normalisasi":"beliau"
+    }
+
+    {
+        "text":"njs",
+        "normalisasi":"najis"
+    }
+
+    {
+        "text":"caper",
+        "normalisasi":"cari perhatian"
+    }
+
+    {
+        "text":"match",
+        "normalisasi":null
+    }
+
+    {
+        "text":"tone deaf",
+        "normalisasi":null
+    }
+
+    {
+        "text":"ancur",
+        "normalisasi":"hancur"
+    }
+
+    {
+        "text":"sono",
+        "normalisasi":"sana"
+    }
+
+    {
+        "text":"u",
+        "normalisasi":"kamu"
+    }
+
+    {
+        "text":"gembrot",
+        "normalisasi":"gendut"
+    }
+
+    {
+        "text":"ogah",
+        "normalisasi":"malas"
+    }
+
+    {
+        "text":"bego",
+        "normalisasi":"bodoh"
+    }
+
+    {
+        "text":"serrm",
+        "normalisasi":"seram"
+    }
+
+    {
+        "text":"drmi",
+        "normalisasi":"demi"
+    }
+
+    {
+        "text":"kren",
+        "normalisasi":"keren"
+    }
+
+    {
+        "text":"absurd",
+        "normalisasi":null
+    }
+
+    {
+        "text":"pade",
+        "normalisasi":"pada"
+    }
+
+    {
+        "text":"pnting",
+        "normalisasi":"penting"
+    }
+
+    {
+        "text":"koncomu",
+        "normalisasi":"temanmu"
+    }
+
+    {
+        "text":"bodat",
+        "normalisasi":"bodo amat"
+    }
+
+    {
+        "text":"ggr",
+        "normalisasi":"gara gara"
+    }
+
+    {
+        "text":"udhannya",
+        "normalisasi":"udahannya"
+    }
+
+    {
+        "text":"mgkin",
+        "normalisasi":"mungkin"
+    }
+
+    {
+        "text":"member",
+        "normalisasi":"anggota"
+    }
+
+    {
+        "text":"jd",
+        "normalisasi":"jadi"
+    }
+
+    {
+        "text":"dahal",
+        "normalisasi":"padahal"
+    }
+
+    {
+        "text":"gue",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"klola",
+        "normalisasi":"kelola"
+    }
+
+    {
+        "text":"srius",
+        "normalisasi":"serius"
+    }
+
+    {
+        "text":"hampura",
+        "normalisasi":"maaf"
+    }
+
+    {
+        "text":"menjd",
+        "normalisasi":"menjadi"
+    }
+
+    {
+        "text":"pilgub",
+        "normalisasi":"pilihan gubernur"
+    }
+
+    {
+        "text":"setdknya",
+        "normalisasi":"setidaknya"
+    }
+
+    {
+        "text":"mane",
+        "normalisasi":"mana"
+    }
+
+    {
+        "text":"bkn",
+        "normalisasi":"bukan"
+    }
+
+    {
+        "text":"bkny",
+        "normalisasi":"bukannya"
+    }
+
+    {
+        "text":"always",
+        "normalisasi":"selalu"
+    }
+
+    {
+        "text":"sgl",
+        "normalisasi":"segala"
+    }
+
+    {
+        "text":"tar",
+        "normalisasi":"nanti"
+    }
+
+    {
+        "text":"slay",
+        "normalisasi":"santai"
+    }
+
+    {
+        "text":"belom",
+        "normalisasi":"belum"
+    }
+
+    {
+        "text":"ttep",
+        "normalisasi":"tetap"
+    }
+
+    {
+        "text":"engga",
+        "normalisasi":"tidak"
+    }
+
+    {
+        "text":"ato",
+        "normalisasi":"atau"
+    }
+
+    {
+        "text":"we",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"mmg",
+        "normalisasi":"memang"
+    }
+
+    {
+        "text":"kmi",
+        "normalisasi":"kami"
+    }
+
+    {
+        "text":"income",
+        "normalisasi":"pemasukan"
+    }
+
+    {
+        "text":"mslhnya",
+        "normalisasi":"masalahnya"
+    }
+
+    {
+        "text":"guyonan",
+        "normalisasi":"becandaan"
+    }
+
+    {
+        "text":"maneh",
+        "normalisasi":"lagi"
+    }
+
+    {
+        "text":"seng",
+        "normalisasi":"yang"
+    }
+
+    {
+        "text":"iku",
+        "normalisasi":"itu"
+    }
+
+    {
+        "text":"bien",
+        "normalisasi":"dulu"
+    }
+
+    {
+        "text":"kate",
+        "normalisasi":"mau"
+    }
+
+    {
+        "text":"digawe",
+        "normalisasi":"digawe"
+    }
+
+    {
+        "text":"dietong",
+        "normalisasi":"dihitu"
+    }
+
+    {
+        "text":"omah",
+        "normalisasi":"ruman"
+    }
+
+    {
+        "text":"oleh",
+        "normalisasi":"dapat"
+    }
+
+    {
+        "text":"q",
+        "normalisasi":"saya"
+    }
+
+    {
+        "text":"no work no pay",
+        "normalisasi":"tidak kerja tidak di gaji"
+    }
+
+    {
+        "text":"pndanaan",
+        "normalisasi":"pendanaan"
+    }
+
+    {
+        "text":"dlm",
+        "normalisasi":"dalam"
+    }
+
+    {
+        "text":"guna",
+        "normalisasi":"berguna"
+    }
+
+    {
+        "text":"buzer",
+        "normalisasi":"juru bicara"
+    }
+
+    {
+        "text":"drpd",
+        "normalisasi":"daripada"
+    }
+

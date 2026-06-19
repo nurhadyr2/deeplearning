@@ -1,0 +1,1258 @@
+[
+  {
+    "text": "ancurin",
+    "stemming": "hancur"
+  },
+  {
+    "text": "artikel",
+    "stemming": "artikel"
+  },
+  {
+    "text": "bapak2",
+    "stemming": "bapak"
+  },
+  {
+    "text": "bayar",
+    "stemming": "bayar"
+  },
+  {
+    "text": "berantakan",
+    "stemming": "rantak"
+  },
+  {
+    "text": "berartikel",
+    "stemming": "artikel"
+  },
+  {
+    "text": "berat",
+    "stemming": "berat"
+  },
+  {
+    "text": "beraturan",
+    "stemming": "atur"
+  },
+  {
+    "text": "berbicara",
+    "stemming": "bicara"
+  },
+  {
+    "text": "berhutang",
+    "stemming": "hutang"
+  },
+  {
+    "text": "berinvestasi",
+    "stemming": "investasi"
+  },
+  {
+    "text": "berita",
+    "stemming": "berita"
+  },
+  {
+    "text": "berjajan",
+    "stemming": "jajan"
+  },
+  {
+    "text": "berkeliling",
+    "stemming": "keliling"
+  },
+  {
+    "text": "bermain",
+    "stemming": "main"
+  },
+  {
+    "text": "bermasalah",
+    "stemming": "masalah"
+  },
+  {
+    "text": "bernasib",
+    "stemming": "nasib"
+  },
+  {
+    "text": "berpola",
+    "stemming": "pola"
+  },
+  {
+    "text": "berputar",
+    "stemming": "putar"
+  },
+  {
+    "text": "beruntung",
+    "stemming": "untung"
+  },
+  {
+    "text": "berutang",
+    "stemming": "utang"
+  },
+  {
+    "text": "blokir",
+    "stemming": "blokir"
+  },
+  {
+    "text": "brantas",
+    "stemming": "berantas"
+  },
+  {
+    "text": "bundir",
+    "stemming": "bunuh"
+  },
+  {
+    "text": "bunuh",
+    "stemming": "bunuh"
+  },
+  {
+    "text": "buron",
+    "stemming": "buron"
+  },
+  {
+    "text": "candu",
+    "stemming": "candu"
+  },
+  {
+    "text": "cuan",
+    "stemming": "cuan"
+  },
+  {
+    "text": "curiga",
+    "stemming": "curiga"
+  },
+  {
+    "text": "depo",
+    "stemming": "deposit"
+  },
+  {
+    "text": "deposit",
+    "stemming": "deposit"
+  },
+  {
+    "text": "diadu",
+    "stemming": "adu"
+  },
+  {
+    "text": "diakhiri",
+    "stemming": "akhir"
+  },
+  {
+    "text": "diatur",
+    "stemming": "atur"
+  },
+  {
+    "text": "dibayar",
+    "stemming": "bayar"
+  },
+  {
+    "text": "dibebas",
+    "stemming": "bebas"
+  },
+  {
+    "text": "diberantas",
+    "stemming": "berantas"
+  },
+  {
+    "text": "diberitakan",
+    "stemming": "berita"
+  },
+  {
+    "text": "dibicarakan",
+    "stemming": "bicara"
+  },
+  {
+    "text": "diblokir",
+    "stemming": "blokir"
+  },
+  {
+    "text": "dibodohi",
+    "stemming": "bodoh"
+  },
+  {
+    "text": "dibunuh",
+    "stemming": "bunuh"
+  },
+  {
+    "text": "diburon",
+    "stemming": "buron"
+  },
+  {
+    "text": "dicairkan",
+    "stemming": "cair"
+  },
+  {
+    "text": "dicurigai",
+    "stemming": "curiga"
+  },
+  {
+    "text": "didaftar",
+    "stemming": "daftar"
+  },
+  {
+    "text": "didatangi",
+    "stemming": "datang"
+  },
+  {
+    "text": "didepositkan",
+    "stemming": "deposit"
+  },
+  {
+    "text": "dihilangkan",
+    "stemming": "hilang"
+  },
+  {
+    "text": "dihimbau",
+    "stemming": "himbau"
+  },
+  {
+    "text": "dihukum",
+    "stemming": "hukum"
+  },
+  {
+    "text": "dihutangi",
+    "stemming": "hutang"
+  },
+  {
+    "text": "diiklankan",
+    "stemming": "iklan"
+  },
+  {
+    "text": "diincar",
+    "stemming": "incar"
+  },
+  {
+    "text": "diingatkan",
+    "stemming": "ingat"
+  },
+  {
+    "text": "diinvestasikan",
+    "stemming": "investasi"
+  },
+  {
+    "text": "dijatuh",
+    "stemming": "jatuh"
+  },
+  {
+    "text": "dijebak",
+    "stemming": "jebak"
+  },
+  {
+    "text": "dikalahkan",
+    "stemming": "kalah"
+  },
+  {
+    "text": "dikalang",
+    "stemming": "kalang"
+  },
+  {
+    "text": "dilacak",
+    "stemming": "lacak"
+  },
+  {
+    "text": "dilaporkan",
+    "stemming": "lapor"
+  },
+  {
+    "text": "dilemahkan",
+    "stemming": "lemah"
+  },
+  {
+    "text": "dilepas",
+    "stemming": "lepas"
+  },
+  {
+    "text": "dilihat",
+    "stemming": "lihat"
+  },
+  {
+    "text": "diludeskan",
+    "stemming": "ludes"
+  },
+  {
+    "text": "dimainkan",
+    "stemming": "main"
+  },
+  {
+    "text": "dimasalahkan",
+    "stemming": "masalah"
+  },
+  {
+    "text": "dimenangkan",
+    "stemming": "menang"
+  },
+  {
+    "text": "dimiskinkan",
+    "stemming": "miskin"
+  },
+  {
+    "text": "dipercaya",
+    "stemming": "percaya"
+  },
+  {
+    "text": "diperintah",
+    "stemming": "perintah"
+  },
+  {
+    "text": "dipinjam",
+    "stemming": "pinjam"
+  },
+  {
+    "text": "dipolakan",
+    "stemming": "pola"
+  },
+  {
+    "text": "dipromosikan",
+    "stemming": "promosi"
+  },
+  {
+    "text": "diputar",
+    "stemming": "putar"
+  },
+  {
+    "text": "dirayu",
+    "stemming": "rayu"
+  },
+  {
+    "text": "dirugikan",
+    "stemming": "rugi"
+  },
+  {
+    "text": "dirusak",
+    "stemming": "rusak"
+  },
+  {
+    "text": "disadarkan",
+    "stemming": "sadar"
+  },
+  {
+    "text": "disasar",
+    "stemming": "sasar"
+  },
+  {
+    "text": "disesali",
+    "stemming": "sesal"
+  },
+  {
+    "text": "disetting",
+    "stemming": "setting"
+  },
+  {
+    "text": "disidik",
+    "stemming": "sidik"
+  },
+  {
+    "text": "ditanamkan",
+    "stemming": "tanam"
+  },
+  {
+    "text": "ditangkap",
+    "stemming": "tangkap"
+  },
+  {
+    "text": "ditegaskan",
+    "stemming": "tegas"
+  },
+  {
+    "text": "ditemukan",
+    "stemming": "temu"
+  },
+  {
+    "text": "ditengah",
+    "stemming": "tengah"
+  },
+  {
+    "text": "ditindak",
+    "stemming": "tindak"
+  },
+  {
+    "text": "ditipu",
+    "stemming": "tipu"
+  },
+  {
+    "text": "diusut",
+    "stemming": "usut"
+  },
+  {
+    "text": "diutangi",
+    "stemming": "utang"
+  },
+  {
+    "text": "diwaspadai",
+    "stemming": "waspada"
+  },
+  {
+    "text": "hilang",
+    "stemming": "hilang"
+  },
+  {
+    "text": "himbauan",
+    "stemming": "himbau"
+  },
+  {
+    "text": "hukum",
+    "stemming": "hukum"
+  },
+  {
+    "text": "hukuman",
+    "stemming": "hukum"
+  },
+  {
+    "text": "hutang",
+    "stemming": "hutang"
+  },
+  {
+    "text": "iklan",
+    "stemming": "iklan"
+  },
+  {
+    "text": "investasi",
+    "stemming": "investasi"
+  },
+  {
+    "text": "jajan",
+    "stemming": "jajan"
+  },
+  {
+    "text": "kalah",
+    "stemming": "kalah"
+  },
+  {
+    "text": "kapok",
+    "stemming": "kapok"
+  },
+  {
+    "text": "kaya",
+    "stemming": "kaya"
+  },
+  {
+    "text": "keaduan",
+    "stemming": "adu"
+  },
+  {
+    "text": "kebebasan",
+    "stemming": "bebas"
+  },
+  {
+    "text": "keberatan",
+    "stemming": "berat"
+  },
+  {
+    "text": "kebodohan",
+    "stemming": "bodoh"
+  },
+  {
+    "text": "kecanduan",
+    "stemming": "candu"
+  },
+  {
+    "text": "kecurigaan",
+    "stemming": "curiga"
+  },
+  {
+    "text": "kedatangan",
+    "stemming": "datang"
+  },
+  {
+    "text": "kehilangan",
+    "stemming": "hilang"
+  },
+  {
+    "text": "keincaran",
+    "stemming": "incar"
+  },
+  {
+    "text": "kejajanan",
+    "stemming": "jajan"
+  },
+  {
+    "text": "kejatuhan",
+    "stemming": "jatuh"
+  },
+  {
+    "text": "kekalahan",
+    "stemming": "kalah"
+  },
+  {
+    "text": "kekalangan",
+    "stemming": "kalang"
+  },
+  {
+    "text": "kekayaan",
+    "stemming": "kaya"
+  },
+  {
+    "text": "kelemahan",
+    "stemming": "lemah"
+  },
+  {
+    "text": "kelepasan",
+    "stemming": "lepas"
+  },
+  {
+    "text": "kemenangan",
+    "stemming": "menang"
+  },
+  {
+    "text": "kemiskinan",
+    "stemming": "miskin"
+  },
+  {
+    "text": "kepercayaan",
+    "stemming": "percaya"
+  },
+  {
+    "text": "kerayuan",
+    "stemming": "rayu"
+  },
+  {
+    "text": "keresahan",
+    "stemming": "resah"
+  },
+  {
+    "text": "kerugian",
+    "stemming": "rugi"
+  },
+  {
+    "text": "kesadaran",
+    "stemming": "sadar"
+  },
+  {
+    "text": "kesasaran",
+    "stemming": "sasar"
+  },
+  {
+    "text": "kesidikan",
+    "stemming": "sidik"
+  },
+  {
+    "text": "kesulitan",
+    "stemming": "sulit"
+  },
+  {
+    "text": "ketegasan",
+    "stemming": "tegas"
+  },
+  {
+    "text": "ketengahan",
+    "stemming": "tengah"
+  },
+  {
+    "text": "ketindakan",
+    "stemming": "tindak"
+  },
+  {
+    "text": "keuntungan",
+    "stemming": "untung"
+  },
+  {
+    "text": "keusutan",
+    "stemming": "usut"
+  },
+  {
+    "text": "kewaspadaan",
+    "stemming": "waspada"
+  },
+  {
+    "text": "lacak",
+    "stemming": "lacak"
+  },
+  {
+    "text": "lapor",
+    "stemming": "lapor"
+  },
+  {
+    "text": "laporan",
+    "stemming": "lapor"
+  },
+  {
+    "text": "lemah",
+    "stemming": "lemah"
+  },
+  {
+    "text": "liat",
+    "stemming": "lihat"
+  },
+  {
+    "text": "lingkungan",
+    "stemming": "lingkung"
+  },
+  {
+    "text": "ludes",
+    "stemming": "ludes"
+  },
+  {
+    "text": "masalah",
+    "stemming": "masalah"
+  },
+  {
+    "text": "masyarakat",
+    "stemming": "syarakat"
+  },
+  {
+    "text": "meadu",
+    "stemming": "adu"
+  },
+  {
+    "text": "mebebas",
+    "stemming": "bebas"
+  },
+  {
+    "text": "meincar",
+    "stemming": "incar"
+  },
+  {
+    "text": "mejatuh",
+    "stemming": "jatuh"
+  },
+  {
+    "text": "mekalang",
+    "stemming": "kalang"
+  },
+  {
+    "text": "melacak",
+    "stemming": "lacak"
+  },
+  {
+    "text": "melaporkan",
+    "stemming": "lapor"
+  },
+  {
+    "text": "melemahkan",
+    "stemming": "lemah"
+  },
+  {
+    "text": "melepas",
+    "stemming": "lepas"
+  },
+  {
+    "text": "melihat",
+    "stemming": "lihat"
+  },
+  {
+    "text": "melingkungi",
+    "stemming": "lingkung"
+  },
+  {
+    "text": "meludeskan",
+    "stemming": "ludes"
+  },
+  {
+    "text": "membayar",
+    "stemming": "bayar"
+  },
+  {
+    "text": "memberantas",
+    "stemming": "berantas"
+  },
+  {
+    "text": "memberatkan",
+    "stemming": "berat"
+  },
+  {
+    "text": "memberitakan",
+    "stemming": "berita"
+  },
+  {
+    "text": "memblokir",
+    "stemming": "blokir"
+  },
+  {
+    "text": "membodohi",
+    "stemming": "bodoh"
+  },
+  {
+    "text": "membunuh",
+    "stemming": "bunuh"
+  },
+  {
+    "text": "memerintah",
+    "stemming": "perintah"
+  },
+  {
+    "text": "meminjam",
+    "stemming": "pinjam"
+  },
+  {
+    "text": "mempercayai",
+    "stemming": "percaya"
+  },
+  {
+    "text": "memperkaya",
+    "stemming": "kaya"
+  },
+  {
+    "text": "mempromosikan",
+    "stemming": "promosi"
+  },
+  {
+    "text": "memusingkan",
+    "stemming": "pusing"
+  },
+  {
+    "text": "memutar",
+    "stemming": "putar"
+  },
+  {
+    "text": "menanamkan",
+    "stemming": "tanam"
+  },
+  {
+    "text": "menang",
+    "stemming": "menang"
+  },
+  {
+    "text": "menangkap",
+    "stemming": "tangkap"
+  },
+  {
+    "text": "mencairkan",
+    "stemming": "cair"
+  },
+  {
+    "text": "mencurigakan",
+    "stemming": "curiga"
+  },
+  {
+    "text": "mendaftar",
+    "stemming": "daftar"
+  },
+  {
+    "text": "mendatangi",
+    "stemming": "datang"
+  },
+  {
+    "text": "mendepositkan",
+    "stemming": "deposit"
+  },
+  {
+    "text": "menegaskan",
+    "stemming": "tegas"
+  },
+  {
+    "text": "menemukan",
+    "stemming": "temu"
+  },
+  {
+    "text": "mengakhiri",
+    "stemming": "akhir"
+  },
+  {
+    "text": "mengalahkan",
+    "stemming": "kalah"
+  },
+  {
+    "text": "mengapokkan",
+    "stemming": "kapok"
+  },
+  {
+    "text": "mengatur",
+    "stemming": "atur"
+  },
+  {
+    "text": "menghancurkan",
+    "stemming": "hancur"
+  },
+  {
+    "text": "menghilang",
+    "stemming": "hilang"
+  },
+  {
+    "text": "menghimbau",
+    "stemming": "himbau"
+  },
+  {
+    "text": "menghukum",
+    "stemming": "hukum"
+  },
+  {
+    "text": "mengiklankan",
+    "stemming": "iklan"
+  },
+  {
+    "text": "mengingatkan",
+    "stemming": "ingat"
+  },
+  {
+    "text": "menguntungkan",
+    "stemming": "untung"
+  },
+  {
+    "text": "menipu",
+    "stemming": "tipu"
+  },
+  {
+    "text": "menjebak",
+    "stemming": "jebak"
+  },
+  {
+    "text": "menjerumus",
+    "stemming": "jerumus"
+  },
+  {
+    "text": "mensetting",
+    "stemming": "setting"
+  },
+  {
+    "text": "menyadarkan",
+    "stemming": "sadar"
+  },
+  {
+    "text": "menyerupai",
+    "stemming": "rupa"
+  },
+  {
+    "text": "menyesal",
+    "stemming": "sesal"
+  },
+  {
+    "text": "menyulitkan",
+    "stemming": "sulit"
+  },
+  {
+    "text": "merayu",
+    "stemming": "rayu"
+  },
+  {
+    "text": "meresahkan",
+    "stemming": "resah"
+  },
+  {
+    "text": "merisihkan",
+    "stemming": "resah"
+  },
+  {
+    "text": "merugikan",
+    "stemming": "rugi"
+  },
+  {
+    "text": "merupakan",
+    "stemming": "rupa"
+  },
+  {
+    "text": "merusak",
+    "stemming": "rusak"
+  },
+  {
+    "text": "mesasar",
+    "stemming": "sasar"
+  },
+  {
+    "text": "mesidik",
+    "stemming": "sidik"
+  },
+  {
+    "text": "metengah",
+    "stemming": "tengah"
+  },
+  {
+    "text": "metindak",
+    "stemming": "tindak"
+  },
+  {
+    "text": "meusut",
+    "stemming": "usut"
+  },
+  {
+    "text": "mewaspadai",
+    "stemming": "waspada"
+  },
+  {
+    "text": "mirip",
+    "stemming": "mirip"
+  },
+  {
+    "text": "miskin",
+    "stemming": "miskin"
+  },
+  {
+    "text": "nasibnya",
+    "stemming": "nasib"
+  },
+  {
+    "text": "ngetren",
+    "stemming": "trend"
+  },
+  {
+    "text": "ngomong",
+    "stemming": "omong"
+  },
+  {
+    "text": "nipu",
+    "stemming": "tipu"
+  },
+  {
+    "text": "nyesel",
+    "stemming": "sesal"
+  },
+  {
+    "text": "peaduan",
+    "stemming": "adu"
+  },
+  {
+    "text": "pebebasan",
+    "stemming": "bebas"
+  },
+  {
+    "text": "pecandu",
+    "stemming": "candu"
+  },
+  {
+    "text": "peincaran",
+    "stemming": "incar"
+  },
+  {
+    "text": "pejatuhan",
+    "stemming": "jatuh"
+  },
+  {
+    "text": "pekalangan",
+    "stemming": "kalang"
+  },
+  {
+    "text": "pelacakan",
+    "stemming": "lacak"
+  },
+  {
+    "text": "pelaporan",
+    "stemming": "lapor"
+  },
+  {
+    "text": "pelepasan",
+    "stemming": "lepas"
+  },
+  {
+    "text": "pemain",
+    "stemming": "main"
+  },
+  {
+    "text": "pembayaran",
+    "stemming": "bayar"
+  },
+  {
+    "text": "pemberantasan",
+    "stemming": "berantas"
+  },
+  {
+    "text": "pemberitaan",
+    "stemming": "berita"
+  },
+  {
+    "text": "pembicaraan",
+    "stemming": "bicara"
+  },
+  {
+    "text": "pemblokiran",
+    "stemming": "blokir"
+  },
+  {
+    "text": "pembodohan",
+    "stemming": "bodoh"
+  },
+  {
+    "text": "pembunuhan",
+    "stemming": "bunuh"
+  },
+  {
+    "text": "pemburonan",
+    "stemming": "buron"
+  },
+  {
+    "text": "pemenang",
+    "stemming": "menang"
+  },
+  {
+    "text": "pemerintah",
+    "stemming": "perintah"
+  },
+  {
+    "text": "peminjaman",
+    "stemming": "pinjam"
+  },
+  {
+    "text": "pemiskinan",
+    "stemming": "miskin"
+  },
+  {
+    "text": "penanam",
+    "stemming": "tanam"
+  },
+  {
+    "text": "pencairan",
+    "stemming": "cair"
+  },
+  {
+    "text": "pendaftaran",
+    "stemming": "daftar"
+  },
+  {
+    "text": "pendatang",
+    "stemming": "datang"
+  },
+  {
+    "text": "penemuan",
+    "stemming": "temu"
+  },
+  {
+    "text": "pengaturan",
+    "stemming": "atur"
+  },
+  {
+    "text": "penglihatan",
+    "stemming": "lihat"
+  },
+  {
+    "text": "penipu",
+    "stemming": "tipu"
+  },
+  {
+    "text": "penipuan",
+    "stemming": "tipu"
+  },
+  {
+    "text": "penyesalan",
+    "stemming": "sesal"
+  },
+  {
+    "text": "penyidik",
+    "stemming": "sidik"
+  },
+  {
+    "text": "penyidikan",
+    "stemming": "sidik"
+  },
+  {
+    "text": "perayuan",
+    "stemming": "rayu"
+  },
+  {
+    "text": "percaya",
+    "stemming": "percaya"
+  },
+  {
+    "text": "perhutang",
+    "stemming": "hutang"
+  },
+  {
+    "text": "periklanan",
+    "stemming": "iklan"
+  },
+  {
+    "text": "peringatan",
+    "stemming": "ingat"
+  },
+  {
+    "text": "permainan",
+    "stemming": "main"
+  },
+  {
+    "text": "permasalahan",
+    "stemming": "masalah"
+  },
+  {
+    "text": "perputaran",
+    "stemming": "putar"
+  },
+  {
+    "text": "perusakan",
+    "stemming": "rusak"
+  },
+  {
+    "text": "perutangan",
+    "stemming": "utang"
+  },
+  {
+    "text": "pesasaran",
+    "stemming": "sasar"
+  },
+  {
+    "text": "pesidikan",
+    "stemming": "sidik"
+  },
+  {
+    "text": "petengahan",
+    "stemming": "tengah"
+  },
+  {
+    "text": "petindakan",
+    "stemming": "tindak"
+  },
+  {
+    "text": "peusutan",
+    "stemming": "usut"
+  },
+  {
+    "text": "pinjaman",
+    "stemming": "pinjam"
+  },
+  {
+    "text": "pinjol",
+    "stemming": "pinjol"
+  },
+  {
+    "text": "pola",
+    "stemming": "pola"
+  },
+  {
+    "text": "promoin",
+    "stemming": "promosi"
+  },
+  {
+    "text": "promosi",
+    "stemming": "promosi"
+  },
+  {
+    "text": "psikologi",
+    "stemming": "psikologi"
+  },
+  {
+    "text": "pusing",
+    "stemming": "pusing"
+  },
+  {
+    "text": "risih",
+    "stemming": "risih"
+  },
+  {
+    "text": "rupa-rupa",
+    "stemming": "rupa"
+  },
+  {
+    "text": "sadar",
+    "stemming": "sadar"
+  },
+  {
+    "text": "sekarang",
+    "stemming": "sekarang"
+  },
+  {
+    "text": "sekeliling",
+    "stemming": "keliling"
+  },
+  {
+    "text": "serupa",
+    "stemming": "rupa"
+  },
+  {
+    "text": "seting",
+    "stemming": "setting"
+  },
+  {
+    "text": "sidik",
+    "stemming": "sidik"
+  },
+  {
+    "text": "sulit",
+    "stemming": "sulit"
+  },
+  {
+    "text": "tanaman",
+    "stemming": "tanam"
+  },
+  {
+    "text": "tangkapan",
+    "stemming": "tangkap"
+  },
+  {
+    "text": "tegas",
+    "stemming": "tegas"
+  },
+  {
+    "text": "temu",
+    "stemming": "temu"
+  },
+  {
+    "text": "teradu",
+    "stemming": "adu"
+  },
+  {
+    "text": "terakhir",
+    "stemming": "akhir"
+  },
+  {
+    "text": "terbebas",
+    "stemming": "bebas"
+  },
+  {
+    "text": "tercairkan",
+    "stemming": "cair"
+  },
+  {
+    "text": "terdaftar",
+    "stemming": "daftar"
+  },
+  {
+    "text": "terincar",
+    "stemming": "incar"
+  },
+  {
+    "text": "terjatuh",
+    "stemming": "jatuh"
+  },
+  {
+    "text": "terjebak",
+    "stemming": "jebak"
+  },
+  {
+    "text": "terjerumus",
+    "stemming": "jerumus"
+  },
+  {
+    "text": "terkalang",
+    "stemming": "kalang"
+  },
+  {
+    "text": "terkaya",
+    "stemming": "kaya"
+  },
+  {
+    "text": "terlepas",
+    "stemming": "lepas"
+  },
+  {
+    "text": "terpusing",
+    "stemming": "pusing"
+  },
+  {
+    "text": "terrayu",
+    "stemming": "rayu"
+  },
+  {
+    "text": "tersasar",
+    "stemming": "sasar"
+  },
+  {
+    "text": "tersidik",
+    "stemming": "sidik"
+  },
+  {
+    "text": "tertangkap",
+    "stemming": "tangkap"
+  },
+  {
+    "text": "tertengah",
+    "stemming": "tengah"
+  },
+  {
+    "text": "tertindak",
+    "stemming": "tindak"
+  },
+  {
+    "text": "terusut",
+    "stemming": "usut"
+  },
+  {
+    "text": "trending",
+    "stemming": "trend"
+  },
+  {
+    "text": "utang",
+    "stemming": "utang"
+  },
+  {
+    "text": "waspada",
+    "stemming": "waspada"
+  },
+  {
+    "text": "wd",
+    "stemming": "withdraw"
+  },
+  {
+    "text": "withdraw",
+    "stemming": "withdraw"
+  }
+]
