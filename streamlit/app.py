@@ -72,14 +72,14 @@ def custom_stemming(words, stem_dict):
     return [stem_dict.get(word.lower(), word) for word in words]
 
 def load_local_json(filename):
-    if filename and filename != "❌ Tidak Pakai Kamus":
+    if filename and filename != "Tidak Pakai Kamus":
         full_path = os.path.join(script_dir, filename)
         if os.path.exists(full_path):
             with open(full_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
     return None
 
-st.set_page_config(page_title="Analisis Sentimen", page_icon="🎲", layout="wide")
+st.set_page_config(page_title="Analisis Sentimen", layout="wide")
 
 def load_css(file_name):
     if os.path.exists(file_name):
@@ -87,9 +87,9 @@ def load_css(file_name):
             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 load_css("style.css")
 
-st.title("🛡️ Analisis Sentimen Pengguna X Terhadap Fenomena dan Dampak Sosial Judi Online di Indonesia 🛡️")
+st.title("Analisis Sentimen Pengguna X Terhadap Fenomena dan Dampak Sosial Judi Online di Indonesia")
 
-json_files = ["❌ Tidak Pakai Kamus"] + [f for f in os.listdir(script_dir) if f.endswith('.json')]
+json_files = ["Tidak Pakai Kamus"] + [f for f in os.listdir(script_dir) if f.endswith('.json')]
 
 with st.sidebar:
     st.header("1. Input Data")
@@ -121,7 +121,7 @@ if uploaded_file:
 
     teks_col = 'full_text' if 'full_text' in df_raw.columns else df_raw.columns[0]
 
-    tab1, tab2, tab3, tab4 = st.tabs(["📄 Data Mentah", "⚙️ Proses Pipeline", "📊 Hasil EDA", "🤖 Evaluasi ML"])
+    tab1, tab2, tab3, tab4 = st.tabs(["Data Mentah", "Proses Pipeline", "Hasil EDA", "Evaluasi ML"])
 
     with tab1:
         st.subheader("1. Kondisi Data Awal")
@@ -150,7 +150,7 @@ if uploaded_file:
             unique_labels = df_no_dup['label'].dropna().unique().tolist()
             pilihan_label = ["Semua"] + unique_labels
 
-            selected_label = st.selectbox("🔍 Tampilkan contoh data untuk label:", pilihan_label)
+            selected_label = st.selectbox("Tampilkan contoh data untuk label:", pilihan_label)
 
             if selected_label == "Semua":
                 st.dataframe(df_no_dup, use_container_width=True)
@@ -159,11 +159,11 @@ if uploaded_file:
                 st.caption(f"Menampilkan {len(df_filtered)} baris data dengan label **{selected_label}**:")
                 st.dataframe(df_filtered, use_container_width=True)
         else:
-            st.info("⚠️ Kolom 'label' tidak ditemukan pada dataset ini, sehingga fitur filter tidak dapat digunakan.")
+            st.info("Kolom 'label' tidak ditemukan pada dataset ini, sehingga fitur filter tidak dapat digunakan.")
 
     with tab2:
         st.subheader("Transformasi Data per Tahapan")
-        if st.button("🚀 Jalankan Proses", use_container_width=True):
+        if st.button("Jalankan Proses", use_container_width=True):
             with st.spinner("Memproses tahapan NLP..."):
                 df = df_no_dup.copy()
                 df['cleaning'] = df[teks_col].apply(cleanTweets)
@@ -175,7 +175,7 @@ if uploaded_file:
 
                 df['TEXT_SIAP'] = df['stemming'].apply(lambda x: ' '.join(x))
                 st.session_state['df_final'] = df
-                st.success("✅ Tahapan Selesai!")
+                st.success("Tahapan Selesai!")
 
         if 'df_final' in st.session_state:
             df_view = st.session_state['df_final']
@@ -194,7 +194,7 @@ if uploaded_file:
 
             st.markdown("---")
             csv = df_view.to_csv(index=False).encode('utf-8')
-            st.download_button("⬇️ Download Seluruh Hasil CSV", data=csv, file_name='data_bersih_lengkap.csv', mime='text/csv')
+            st.download_button("Download Seluruh Hasil CSV", data=csv, file_name='data_bersih_lengkap.csv', mime='text/csv')
 
     with tab3:
         if 'df_final' in st.session_state:
@@ -202,13 +202,13 @@ if uploaded_file:
             all_text = ' '.join(df['TEXT_SIAP'].replace('', np.nan).dropna())
 
             if all_text.strip() != "":
-                st.subheader("☁️ WordCloud Dominan")
+                st.subheader("WordCloud Dominan")
                 wc = WordCloud(width=800, height=400, background_color='rgba(0,0,0,0)', colormap='cool', mode='RGBA').generate(all_text)
                 fig_wc, ax_wc = plt.subplots(figsize=(10, 5))
                 fig_wc.patch.set_alpha(0); ax_wc.imshow(wc, interpolation='bilinear'); ax_wc.axis('off')
                 st.pyplot(fig_wc)
 
-                st.subheader("📈 Analisis N-Gram")
+                st.subheader("Analisis N-Gram")
                 def plot_ngram(n_range, title, color):
                     try:
                         vec = CountVectorizer(ngram_range=(n_range, n_range), max_features=10).fit([all_text])
@@ -228,7 +228,7 @@ if uploaded_file:
                 with c3: st.plotly_chart(plot_ngram(3, "Trigram (3 Kata)", '#7928CA'), use_container_width=True)
 
                 if 'label' in df.columns:
-                    st.subheader("📊 Distribusi Label Sentimen")
+                    st.subheader("Distribusi Label Sentimen")
                     sent_counts = df['label'].value_counts()
                     fig_sent = go.Figure(go.Pie(labels=sent_counts.index, values=sent_counts.values, hole=.4, marker=dict(colors=['#FF5252', '#00E676', '#9E9E9E'])))
                     fig_sent.update_layout(paper_bgcolor='rgba(0,0,0,0)', font={'color': 'white'})
@@ -237,12 +237,12 @@ if uploaded_file:
             st.info("Jalankan pipeline di tab 'Proses Pipeline' terlebih dahulu.")
 
     with tab4:
-        st.subheader("🤖 Klasifikasi Sentimen - Perbandingan Model ML")
+        st.subheader("Klasifikasi Sentimen - Perbandingan Model ML")
 
         if 'df_final' not in st.session_state:
-            st.warning("⚠️ Jalankan Proses Pipeline di Tab 2 terlebih dahulu untuk mendapatkan 'TEXT_SIAP'.")
+            st.warning("Jalankan Proses Pipeline di Tab 2 terlebih dahulu untuk mendapatkan 'TEXT_SIAP'.")
         elif 'label' not in st.session_state['df_final'].columns:
-            st.error("❌ Dataset Anda tidak memiliki kolom 'label'. Proses Machine Learning dibatalkan.")
+            st.error("Dataset Anda tidak memiliki kolom 'label'. Proses Machine Learning dibatalkan.")
         else:
             st.info("Bandingkan performa berbagai model ML menggunakan ekstraksi fitur TF-IDF Unigram, Bigram, dan Trigram.")
 
@@ -255,7 +255,7 @@ if uploaded_file:
                 "SVM (Linear)": "svm",
             }
             selected_model_name = st.selectbox(
-                "🤖 Pilih Model Klasifikasi:",
+                "Pilih Model Klasifikasi:",
                 list(model_options.keys()),
                 index=0,
                 help="Pilih algoritma machine learning yang ingin digunakan untuk klasifikasi sentimen."
@@ -279,7 +279,7 @@ if uploaded_file:
                 elif name == "SVM (Linear)":
                     return LinearSVC(C=0.5, class_weight='balanced', max_iter=2000, random_state=42)
 
-            if st.button(f"⚙️ Mulai Training ML ({selected_model_name})", use_container_width=True):
+            if st.button(f"Mulai Training ML ({selected_model_name})", use_container_width=True):
                 with st.spinner(f"Sedang melakukan training {selected_model_name} pada 3 skenario... ini mungkin memakan waktu sebentar."):
                     df_ml = st.session_state['df_final'].copy()
                     df_ml = df_ml.dropna(subset=['TEXT_SIAP', 'label'])
@@ -314,17 +314,17 @@ if uploaded_file:
                     vec_3gram = TfidfVectorizer(ngram_range=(3, 3), max_features=1000, min_df=2)
                     acc_3gram, cm_3gram, cr_3gram = train_evaluate(vec_3gram, get_model(selected_model_name))
 
-                    st.success(f"✅ Training {selected_model_name} Selesai!")
+                    st.success(f"Training {selected_model_name} Selesai!")
 
-                    st.markdown(f"#### 🏆 Perbandingan Akurasi — {selected_model_name}")
+                    st.markdown(f"#### Perbandingan Akurasi - {selected_model_name}")
                     col_m1, col_m2, col_m3 = st.columns(3)
-                    col_m1.metric(f"Unigram × {selected_model_name}", f"{acc_tfidf*100:.2f}%")
-                    col_m2.metric(f"Bigram × {selected_model_name}", f"{acc_2gram*100:.2f}%")
-                    col_m3.metric(f"Trigram × {selected_model_name}", f"{acc_3gram*100:.2f}%")
+                    col_m1.metric(f"Unigram x {selected_model_name}", f"{acc_tfidf*100:.2f}%")
+                    col_m2.metric(f"Bigram x {selected_model_name}", f"{acc_2gram*100:.2f}%")
+                    col_m3.metric(f"Trigram x {selected_model_name}", f"{acc_3gram*100:.2f}%")
 
                     st.markdown("---")
 
-                    st.markdown("#### 📑 Classification Report Lengkap")
+                    st.markdown("#### Classification Report Lengkap")
                     st.markdown("<small>Melihat detail Precision, Recall, dan F1-Score per kelas sentimen.</small>", unsafe_allow_html=True)
 
                     def format_cr(cr_dict):
@@ -343,7 +343,7 @@ if uploaded_file:
 
                     st.markdown("---")
 
-                    st.markdown("#### 📉 Confusion Matrix")
+                    st.markdown("#### Confusion Matrix")
                     def plot_cm(cm, title):
                         fig = px.imshow(cm, text_auto=True, color_continuous_scale='Purples',
                                         x=target_names, y=target_names, title=title)
@@ -357,4 +357,4 @@ if uploaded_file:
                     with c_cm3: st.plotly_chart(plot_cm(cm_3gram, "CM: 3-Gram"), use_container_width=True)
 
 else:
-    st.info("👈 Harap unggah dataset untuk memulai analisis.")
+    st.info("Harap unggah dataset untuk memulai analisis.")

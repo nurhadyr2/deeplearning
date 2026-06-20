@@ -1,8 +1,3 @@
-/* =====================================================================
-   TEMA: NEON CYBERPUNK GLASSMORPHISM (RESPONSIVE EDITION)
-   ===================================================================== */
-
-/* --- 1. ANIMASI KEYFRAMES --- */
 @keyframes rgbFlow {
   0% {
     background-position: 0% 50%;
@@ -28,7 +23,6 @@
   }
 }
 
-/* --- 2. PENGATURAN TEKS GLOBAL --- */
 h1,
 h2,
 h3,
@@ -45,19 +39,16 @@ label,
   font-family: "Segoe UI", Roboto, sans-serif;
 }
 
-/* --- 3. BACKGROUND UTAMA --- */
 .stApp {
   background-attachment: fixed !important;
 }
 
-/* --- 4. KONTAINER UTAMA (GLASSMORPHISM) --- */
 .block-container {
   position: relative;
   animation: slideDownSmooth 1s cubic-bezier(0.23, 1, 0.32, 1) both;
 
   background-color: rgba(15, 20, 25, 0.6) !important;
 
-  /* Ukuran Default untuk Layar Besar (Laptop/PC) */
   max-width: 95vw !important;
   padding: 2.5rem 3rem !important;
   border-radius: 20px;
@@ -86,7 +77,6 @@ label,
   z-index: 2;
 }
 
-/* --- 5. SIDEBAR (MENU KIRI) --- */
 [data-testid="stSidebar"] {
   background-color: rgba(10, 15, 20, 0.7) !important;
   backdrop-filter: blur(10px);
@@ -106,7 +96,6 @@ label,
   z-index: 2;
 }
 
-/* --- 6. RADIO BUTTON MENU NAVIGASI --- */
 div[role="radiogroup"] label {
   background-color: rgba(255, 255, 255, 0.05) !important;
   padding: 12px 15px !important;
@@ -135,7 +124,6 @@ div[role="radiogroup"] label[data-checked="true"] p {
   font-weight: 800 !important;
 }
 
-/* --- 7. TOMBOL (BUTTON) --- */
 div.stButton > button {
   background: linear-gradient(135deg, #7928ca 0%, #ff007f 100%) !important;
   color: white !important;
@@ -152,7 +140,6 @@ div.stButton > button:hover {
   box-shadow: 0 8px 25px rgba(255, 0, 127, 0.6) !important;
 }
 
-/* --- 8. FILE UPLOADER --- */
 [data-testid="stFileUploader"] section {
   background-color: rgba(0, 0, 0, 0.5) !important;
   border: 1px dashed #00c6ff !important;
@@ -173,7 +160,6 @@ div.stButton > button:hover {
   color: white !important;
 }
 
-/* --- 9. TABS --- */
 [data-testid="stTabs"] button {
   background-color: transparent !important;
   border: none !important;
@@ -189,7 +175,6 @@ div.stButton > button:hover {
   color: #ff007f !important;
 }
 
-/* --- 10. TEXT AREA & INPUT FIELD --- */
 textarea,
 input {
   background-color: rgba(0, 0, 0, 0.6) !important;
@@ -203,7 +188,6 @@ input:focus {
   box-shadow: 0 0 10px rgba(255, 0, 127, 0.5) !important;
 }
 
-/* --- 11. METRIC CARDS --- */
 [data-testid="stMetricValue"] {
   color: #00e676 !important;
   font-size: 2.5rem !important;
@@ -213,35 +197,27 @@ input:focus {
   color: #00c6ff !important;
 }
 
-/* =====================================================================
-   12. MEDIA QUERIES (UNTUK RESPONSIVITAS HP & TABLET)
-   ===================================================================== */
-
-/* Aturan untuk layar Tablet ke bawah (Max Width: 992px) */
 @media screen and (max-width: 992px) {
   .block-container {
-    padding: 2rem 2rem !important; /* Kurangi padding sedikit */
+    padding: 2rem 2rem !important;
   }
   [data-testid="stMetricValue"] {
-    font-size: 2rem !important; /* Kecilkan teks angka metrik */
+    font-size: 2rem !important;
   }
 }
 
-/* Aturan khusus untuk layar HP / Smartphone (Max Width: 768px) */
 @media screen and (max-width: 768px) {
   .block-container {
-    max-width: 100vw !important; /* Gunakan seluruh lebar layar */
-    padding: 1.2rem 1rem !important; /* Padding kanan-kiri dikecilkan agar lega */
-    margin-top: 1rem !important; /* Jarak atas dikecilkan */
-    border-radius: 15px !important; /* Sudut disesuaikan */
+    max-width: 100vw !important;
+    padding: 1.2rem 1rem !important;
+    margin-top: 1rem !important;
+    border-radius: 15px !important;
   }
 
-  /* Sesuaikan radius neon border agar menempel pas dengan kontainer */
   .block-container::before {
     border-radius: 15px !important;
   }
 
-  /* Kecilkan ukuran font judul agar tidak bertumpuk di HP */
   h1 {
     font-size: 1.8rem !important;
   }
@@ -252,50 +228,41 @@ input:focus {
     font-size: 1.2rem !important;
   }
 
-  /* Sesuaikan ukuran font angka Metrik (Total Data, dll) */
   [data-testid="stMetricValue"] {
     font-size: 1.5rem !important;
   }
 
-  /* Sesuaikan tombol agar pas ditekan jari di HP */
   div.stButton > button {
-    width: 100% !important; /* Tombol jadi selebar layar */
+    width: 100% !important;
     padding: 0.8rem 1rem !important;
     font-size: 1rem !important;
   }
 
-  /* Sesuaikan ukuran teks pada Tabs Menu */
   [data-testid="stTabs"] button {
     font-size: 0.85rem !important;
     padding-left: 10px !important;
     padding-right: 10px !important;
   }
 
-  /* Sesuaikan padding kotak File Uploader */
   [data-testid="stFileUploader"] section {
     padding: 15px !important;
   }
-  /* --- 13. FIX HEADER ATAS (MENGHILANGKAN PUTIH) --- */
 
-  /* Menargetkan Header Streamlit (Tempat tombol settings/tiga titik) */
   header[data-testid="stHeader"] {
-    background-color: rgba(0, 0, 0, 0) !important; /* Transparan total */
-    backdrop-filter: blur(10px) !important; /* Efek kabur di belakang header */
+    background-color: rgba(0, 0, 0, 0) !important;
+    backdrop-filter: blur(10px) !important;
     -webkit-backdrop-filter: blur(10px) !important;
   }
 
-  /* Menghilangkan garis warna tipis di paling atas (Decoration Bar) */
   [data-testid="stDecoration"] {
     background-image: linear-gradient(90deg, #ff007f, #00c6ff) !important;
     height: 3px !important;
   }
 
-  /* Menyesuaikan jarak kontainer agar tidak ada celah putih di atas */
   .stApp {
     background-attachment: fixed !important;
   }
 
-  /* Memastikan teks di header tetap putih jika ada */
   header[data-testid="stHeader"] * {
     color: white !important;
   }
