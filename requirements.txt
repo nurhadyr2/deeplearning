@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+matplotlib
+seaborn
+wordcloud
+plotly
+emoji
+openpyxl
+streamlit
+ipykernel

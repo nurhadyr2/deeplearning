@@ -46,6 +46,9 @@ htmlcov/
 Thumbs.db
 desktop.ini
 
+# MS Office temp/lock files
+~$*
+
 # Logs
 *.log
 
